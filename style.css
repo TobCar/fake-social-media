@@ -1,0 +1,34 @@
+.post-title-input {
+  margin-top: 4px;
+  width: 50%;
+}
+
+.post-description-input {
+  margin-top: 4px;
+  width: 100%;
+}
+
+.post-interactive {
+  width: 100%;
+  display: table;
+}
+
+.comment-text-input {
+  margin-right: 4px;
+  width: calc(100% - 124px);
+}
+
+.btn-post {
+  margin-top: 4px;
+  width: 50%;
+}
+
+.btn-comment {
+  width: 120px;
+}
+
+/* Extend Bootstrap cards */
+.card {
+  margin-bottom: 16px;
+  box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.15)
+}
